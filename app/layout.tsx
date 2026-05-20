@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { Public_Sans, JetBrains_Mono } from 'next/font/google';
 import './globals.css';
+import { Sidebar } from '@/components/dashboard/Sidebar';
 
 const publicSans = Public_Sans({
 	variable: '--font-public-sans',
@@ -29,7 +30,12 @@ export default function RootLayout({
 			lang="en"
 			className={`${publicSans.variable} ${jetBrainsMono.variable} h-full antialiased`}
 		>
-			<body className="min-h-full flex flex-col">{children}</body>
+			<body className="min-h-full flex flex-col">
+				<div className="h-screen overflow-hidden flex">
+					<Sidebar />
+					<main className="flex-2 overflow-y-auto">{children}</main>
+				</div>
+			</body>
 		</html>
 	);
 }
