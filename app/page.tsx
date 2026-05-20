@@ -1,7 +1,13 @@
+import { PageHeader } from '@/components/dashboard/PageHeader';
+
 export default function Home() {
 	return (
-		<div>
-			hola <span className="numeric">123</span>
+		<div className="px-8 py-4">
+			<PageHeader
+				title="Omnichannel Ads Performance"
+				breadcrumb="Reports > Performance"
+				lastSynced="Synced 5 min ago" //mock last synced time
+			/>
 		</div>
 	);
 }
