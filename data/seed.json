@@ -1,0 +1,1642 @@
+{
+	"summary": {
+		"lastUpdated": "2024-10-31T23:59:00Z",
+		"currency": "MXN",
+		"timezone": "America/Mexico_City",
+		"dateRange": { "from": "2024-10-18", "to": "2024-10-31" }
+	},
+	"campaigns": [
+		{
+			"id": "camp_001",
+			"name": "Summer Sale 2024",
+			"platform": "meta",
+			"status": "active",
+			"funnelObjective": "conversion",
+			"startDate": "2024-09-01",
+			"endDate": "2024-10-31",
+			"budget": {
+				"daily": 1500,
+				"total": 50000,
+				"spent": 41000,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 41000,
+				"impressions": 1200000,
+				"clicks": 37440,
+				"ctr": 3.12,
+				"cpc": 1.1,
+				"conversions": 485,
+				"conversionRate": 1.3,
+				"cpa": 84.54,
+				"revenue": 172170,
+				"roas": 4.2
+			},
+			"platformData": {
+				"reach": 890000,
+				"frequency": 1.35,
+				"cpm": 34.17,
+				"videoViews": 145000,
+				"adSetCount": 3,
+				"campaignObjective": "OUTCOME_SALES"
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 1380,
+					"impressions": 40800,
+					"clicks": 1273,
+					"conversions": 15,
+					"revenue": 5325
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 1420,
+					"impressions": 42100,
+					"clicks": 1313,
+					"conversions": 16,
+					"revenue": 5680
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 1180,
+					"impressions": 35200,
+					"clicks": 1098,
+					"conversions": 13,
+					"revenue": 4615
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 1350,
+					"impressions": 40000,
+					"clicks": 1248,
+					"conversions": 15,
+					"revenue": 5325
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 1490,
+					"impressions": 44200,
+					"clicks": 1379,
+					"conversions": 18,
+					"revenue": 6390
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 1500,
+					"impressions": 44800,
+					"clicks": 1398,
+					"conversions": 19,
+					"revenue": 6745
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 1410,
+					"impressions": 41900,
+					"clicks": 1307,
+					"conversions": 17,
+					"revenue": 6035
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 1460,
+					"impressions": 43300,
+					"clicks": 1351,
+					"conversions": 18,
+					"revenue": 6390
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 1500,
+					"impressions": 44800,
+					"clicks": 1398,
+					"conversions": 20,
+					"revenue": 7100
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 1490,
+					"impressions": 44200,
+					"clicks": 1379,
+					"conversions": 21,
+					"revenue": 7455
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 1480,
+					"impressions": 43900,
+					"clicks": 1370,
+					"conversions": 20,
+					"revenue": 7100
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 1500,
+					"impressions": 44800,
+					"clicks": 1398,
+					"conversions": 22,
+					"revenue": 7810
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 1500,
+					"impressions": 45000,
+					"clicks": 1404,
+					"conversions": 23,
+					"revenue": 8165
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 1500,
+					"impressions": 45000,
+					"clicks": 1404,
+					"conversions": 24,
+					"revenue": 8520
+				}
+			]
+		},
+		{
+			"id": "camp_002",
+			"name": "Black Friday Retargeting",
+			"platform": "google",
+			"status": "active",
+			"funnelObjective": "conversion",
+			"startDate": "2024-10-01",
+			"endDate": "2024-11-30",
+			"budget": {
+				"daily": 800,
+				"total": 20000,
+				"spent": 19000,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 19000,
+				"impressions": 380000,
+				"clicks": 5510,
+				"ctr": 1.45,
+				"cpc": 3.45,
+				"conversions": 105,
+				"conversionRate": 1.91,
+				"cpa": 180.95,
+				"revenue": 34200,
+				"roas": 1.8
+			},
+			"platformData": {
+				"campaignType": "Search",
+				"qualityScore": 5,
+				"searchImpressionShare": 41.2,
+				"viewRate": null,
+				"adGroupCount": 4
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 790,
+					"impressions": 27400,
+					"clicks": 397,
+					"conversions": 9,
+					"revenue": 2925
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 800,
+					"impressions": 28000,
+					"clicks": 406,
+					"conversions": 9,
+					"revenue": 2925
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 760,
+					"impressions": 26100,
+					"clicks": 378,
+					"conversions": 7,
+					"revenue": 2275
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 800,
+					"impressions": 28100,
+					"clicks": 407,
+					"conversions": 8,
+					"revenue": 2600
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 800,
+					"impressions": 28200,
+					"clicks": 409,
+					"conversions": 9,
+					"revenue": 2925
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 780,
+					"impressions": 27100,
+					"clicks": 393,
+					"conversions": 8,
+					"revenue": 2600
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 760,
+					"impressions": 26200,
+					"clicks": 380,
+					"conversions": 7,
+					"revenue": 2275
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 800,
+					"impressions": 28100,
+					"clicks": 407,
+					"conversions": 8,
+					"revenue": 2600
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 800,
+					"impressions": 28100,
+					"clicks": 407,
+					"conversions": 9,
+					"revenue": 2925
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 780,
+					"impressions": 27000,
+					"clicks": 391,
+					"conversions": 7,
+					"revenue": 2275
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 760,
+					"impressions": 26100,
+					"clicks": 378,
+					"conversions": 7,
+					"revenue": 2275
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 800,
+					"impressions": 28100,
+					"clicks": 407,
+					"conversions": 8,
+					"revenue": 2600
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 790,
+					"impressions": 27400,
+					"clicks": 397,
+					"conversions": 7,
+					"revenue": 2275
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 780,
+					"impressions": 27100,
+					"clicks": 393,
+					"conversions": 8,
+					"revenue": 2600
+				}
+			]
+		},
+		{
+			"id": "camp_003",
+			"name": "Awareness Campaign Q3",
+			"platform": "amazon",
+			"status": "paused",
+			"funnelObjective": "awareness",
+			"startDate": "2024-10-01",
+			"endDate": "2024-12-31",
+			"budget": {
+				"daily": 200,
+				"total": 10000,
+				"spent": 1500,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 1500,
+				"impressions": 450000,
+				"clicks": 3690,
+				"ctr": 0.82,
+				"cpc": 0.41,
+				"conversions": 0,
+				"conversionRate": 0,
+				"cpa": null,
+				"revenue": 0,
+				"roas": null
+			},
+			"platformData": {
+				"campaignType": "DSP",
+				"acos": null,
+				"ntbOrders": null,
+				"ntbOrdersPercentage": null,
+				"impressionShare": 12.4
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 198,
+					"impressions": 58200,
+					"clicks": 477,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 200,
+					"impressions": 60100,
+					"clicks": 493,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 195,
+					"impressions": 57400,
+					"clicks": 471,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 200,
+					"impressions": 60200,
+					"clicks": 494,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 200,
+					"impressions": 60000,
+					"clicks": 492,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 197,
+					"impressions": 58700,
+					"clicks": 482,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 200,
+					"impressions": 60200,
+					"clicks": 494,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 110,
+					"impressions": 35200,
+					"clicks": 287,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				}
+			]
+		},
+		{
+			"id": "camp_004",
+			"name": "Branded Search MX",
+			"platform": "google",
+			"status": "active",
+			"funnelObjective": "traffic",
+			"startDate": "2024-01-01",
+			"endDate": "2024-12-31",
+			"budget": {
+				"daily": 350,
+				"total": 12000,
+				"spent": 8500,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 8500,
+				"impressions": 125000,
+				"clicks": 8750,
+				"ctr": 7.0,
+				"cpc": 0.97,
+				"conversions": 385,
+				"conversionRate": 4.4,
+				"cpa": 22.08,
+				"revenue": 96250,
+				"roas": 11.3
+			},
+			"platformData": {
+				"campaignType": "Search",
+				"qualityScore": 9,
+				"searchImpressionShare": 78.5,
+				"viewRate": null,
+				"adGroupCount": 2
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 310,
+					"impressions": 4520,
+					"clicks": 316,
+					"conversions": 13,
+					"revenue": 3250
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 345,
+					"impressions": 5020,
+					"clicks": 351,
+					"conversions": 15,
+					"revenue": 3750
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 290,
+					"impressions": 4210,
+					"clicks": 295,
+					"conversions": 12,
+					"revenue": 3000
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 340,
+					"impressions": 4950,
+					"clicks": 346,
+					"conversions": 15,
+					"revenue": 3750
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 350,
+					"impressions": 5100,
+					"clicks": 357,
+					"conversions": 16,
+					"revenue": 4000
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 348,
+					"impressions": 5070,
+					"clicks": 355,
+					"conversions": 16,
+					"revenue": 4000
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 320,
+					"impressions": 4660,
+					"clicks": 326,
+					"conversions": 14,
+					"revenue": 3500
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 348,
+					"impressions": 5070,
+					"clicks": 355,
+					"conversions": 16,
+					"revenue": 4000
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 350,
+					"impressions": 5100,
+					"clicks": 357,
+					"conversions": 16,
+					"revenue": 4000
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 350,
+					"impressions": 5100,
+					"clicks": 357,
+					"conversions": 17,
+					"revenue": 4250
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 345,
+					"impressions": 5020,
+					"clicks": 351,
+					"conversions": 15,
+					"revenue": 3750
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 350,
+					"impressions": 5100,
+					"clicks": 357,
+					"conversions": 17,
+					"revenue": 4250
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 350,
+					"impressions": 5100,
+					"clicks": 357,
+					"conversions": 17,
+					"revenue": 4250
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 350,
+					"impressions": 5100,
+					"clicks": 357,
+					"conversions": 17,
+					"revenue": 4250
+				}
+			]
+		},
+		{
+			"id": "camp_005",
+			"name": "Back to School",
+			"platform": "meta",
+			"status": "ended",
+			"funnelObjective": "conversion",
+			"startDate": "2024-08-01",
+			"endDate": "2024-10-25",
+			"budget": {
+				"daily": 1000,
+				"total": 28000,
+				"spent": 28000,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 28000,
+				"impressions": 890000,
+				"clicks": 21360,
+				"ctr": 2.4,
+				"cpc": 1.31,
+				"conversions": 320,
+				"conversionRate": 1.5,
+				"cpa": 87.5,
+				"revenue": 89600,
+				"roas": 3.2
+			},
+			"platformData": {
+				"reach": 620000,
+				"frequency": 1.44,
+				"cpm": 31.46,
+				"videoViews": 89000,
+				"adSetCount": 4,
+				"campaignObjective": "OUTCOME_SALES"
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 980,
+					"impressions": 31200,
+					"clicks": 749,
+					"conversions": 11,
+					"revenue": 3080
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 1000,
+					"impressions": 31900,
+					"clicks": 766,
+					"conversions": 12,
+					"revenue": 3360
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 850,
+					"impressions": 27100,
+					"clicks": 650,
+					"conversions": 9,
+					"revenue": 2520
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 970,
+					"impressions": 30900,
+					"clicks": 742,
+					"conversions": 11,
+					"revenue": 3080
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 1000,
+					"impressions": 31900,
+					"clicks": 766,
+					"conversions": 12,
+					"revenue": 3360
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 990,
+					"impressions": 31500,
+					"clicks": 756,
+					"conversions": 11,
+					"revenue": 3080
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 960,
+					"impressions": 30600,
+					"clicks": 734,
+					"conversions": 11,
+					"revenue": 3080
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 500,
+					"impressions": 15900,
+					"clicks": 382,
+					"conversions": 5,
+					"revenue": 1400
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				}
+			]
+		},
+		{
+			"id": "camp_006",
+			"name": "Prime Day Boost",
+			"platform": "amazon",
+			"status": "active",
+			"funnelObjective": "conversion",
+			"startDate": "2024-10-01",
+			"endDate": "2024-11-15",
+			"budget": {
+				"daily": 500,
+				"total": 15000,
+				"spent": 12000,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 12000,
+				"impressions": 680000,
+				"clicks": 8160,
+				"ctr": 1.2,
+				"cpc": 1.47,
+				"conversions": 210,
+				"conversionRate": 2.57,
+				"cpa": 57.14,
+				"revenue": 63000,
+				"roas": 5.25
+			},
+			"platformData": {
+				"campaignType": "Sponsored Products",
+				"acos": 19.05,
+				"ntbOrders": 89,
+				"ntbOrdersPercentage": 42.4,
+				"impressionShare": 34.8
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 480,
+					"impressions": 27100,
+					"clicks": 325,
+					"conversions": 8,
+					"revenue": 2400
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 500,
+					"impressions": 28300,
+					"clicks": 340,
+					"conversions": 9,
+					"revenue": 2700
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 460,
+					"impressions": 26000,
+					"clicks": 312,
+					"conversions": 8,
+					"revenue": 2400
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 495,
+					"impressions": 28000,
+					"clicks": 336,
+					"conversions": 9,
+					"revenue": 2700
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 500,
+					"impressions": 28300,
+					"clicks": 340,
+					"conversions": 10,
+					"revenue": 3000
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 498,
+					"impressions": 28100,
+					"clicks": 337,
+					"conversions": 9,
+					"revenue": 2700
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 475,
+					"impressions": 26800,
+					"clicks": 322,
+					"conversions": 8,
+					"revenue": 2400
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 500,
+					"impressions": 28300,
+					"clicks": 340,
+					"conversions": 10,
+					"revenue": 3000
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 500,
+					"impressions": 28300,
+					"clicks": 340,
+					"conversions": 10,
+					"revenue": 3000
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 499,
+					"impressions": 28200,
+					"clicks": 338,
+					"conversions": 10,
+					"revenue": 3000
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 498,
+					"impressions": 28100,
+					"clicks": 337,
+					"conversions": 9,
+					"revenue": 2700
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 500,
+					"impressions": 28300,
+					"clicks": 340,
+					"conversions": 10,
+					"revenue": 3000
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 500,
+					"impressions": 28300,
+					"clicks": 340,
+					"conversions": 10,
+					"revenue": 3000
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 500,
+					"impressions": 28300,
+					"clicks": 340,
+					"conversions": 11,
+					"revenue": 3300
+				}
+			]
+		},
+		{
+			"id": "camp_007",
+			"name": "YouTube Brand Awareness",
+			"platform": "google",
+			"status": "active",
+			"funnelObjective": "awareness",
+			"startDate": "2024-10-01",
+			"endDate": "2024-12-31",
+			"budget": {
+				"daily": 600,
+				"total": 18000,
+				"spent": 15000,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 15000,
+				"impressions": 2800000,
+				"clicks": 22400,
+				"ctr": 0.8,
+				"cpc": 0.67,
+				"conversions": 45,
+				"conversionRate": 0.2,
+				"cpa": null,
+				"revenue": 0,
+				"roas": null
+			},
+			"platformData": {
+				"campaignType": "YouTube",
+				"qualityScore": null,
+				"searchImpressionShare": null,
+				"viewRate": 42.3,
+				"adGroupCount": 2
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 590,
+					"impressions": 108000,
+					"clicks": 864,
+					"conversions": 2,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 600,
+					"impressions": 110000,
+					"clicks": 880,
+					"conversions": 3,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 560,
+					"impressions": 102000,
+					"clicks": 816,
+					"conversions": 2,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 595,
+					"impressions": 108800,
+					"clicks": 870,
+					"conversions": 3,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 600,
+					"impressions": 110000,
+					"clicks": 880,
+					"conversions": 3,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 598,
+					"impressions": 109400,
+					"clicks": 875,
+					"conversions": 3,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 575,
+					"impressions": 105100,
+					"clicks": 841,
+					"conversions": 2,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 598,
+					"impressions": 109400,
+					"clicks": 875,
+					"conversions": 3,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 600,
+					"impressions": 110000,
+					"clicks": 880,
+					"conversions": 3,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 600,
+					"impressions": 110000,
+					"clicks": 880,
+					"conversions": 4,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 598,
+					"impressions": 109400,
+					"clicks": 875,
+					"conversions": 3,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 600,
+					"impressions": 110000,
+					"clicks": 880,
+					"conversions": 4,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 600,
+					"impressions": 110000,
+					"clicks": 880,
+					"conversions": 4,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 600,
+					"impressions": 110000,
+					"clicks": 880,
+					"conversions": 4,
+					"revenue": 0
+				}
+			]
+		},
+		{
+			"id": "camp_008",
+			"name": "Retargeting LATAM",
+			"platform": "meta",
+			"status": "paused",
+			"funnelObjective": "traffic",
+			"startDate": "2024-09-15",
+			"endDate": "2024-11-15",
+			"budget": {
+				"daily": 300,
+				"total": 9000,
+				"spent": 7200,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 7200,
+				"impressions": 290000,
+				"clicks": 8700,
+				"ctr": 3.0,
+				"cpc": 0.83,
+				"conversions": 58,
+				"conversionRate": 0.67,
+				"cpa": 124.14,
+				"revenue": 20880,
+				"roas": 2.9
+			},
+			"platformData": {
+				"reach": 69000,
+				"frequency": 4.2,
+				"cpm": 24.83,
+				"videoViews": null,
+				"adSetCount": 2,
+				"campaignObjective": "OUTCOME_TRAFFIC"
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 298,
+					"impressions": 11800,
+					"clicks": 354,
+					"conversions": 2,
+					"revenue": 720
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 300,
+					"impressions": 12000,
+					"clicks": 360,
+					"conversions": 3,
+					"revenue": 1080
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 295,
+					"impressions": 11700,
+					"clicks": 351,
+					"conversions": 2,
+					"revenue": 720
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 300,
+					"impressions": 12000,
+					"clicks": 360,
+					"conversions": 3,
+					"revenue": 1080
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 300,
+					"impressions": 12000,
+					"clicks": 360,
+					"conversions": 3,
+					"revenue": 1080
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 299,
+					"impressions": 11900,
+					"clicks": 357,
+					"conversions": 2,
+					"revenue": 720
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 280,
+					"impressions": 11100,
+					"clicks": 333,
+					"conversions": 2,
+					"revenue": 720
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 150,
+					"impressions": 5800,
+					"clicks": 174,
+					"conversions": 1,
+					"revenue": 360
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				}
+			]
+		},
+		{
+			"id": "camp_009",
+			"name": "Shopping Navidad",
+			"platform": "google",
+			"status": "active",
+			"funnelObjective": "conversion",
+			"startDate": "2024-10-22",
+			"endDate": "2024-12-24",
+			"budget": {
+				"daily": 500,
+				"total": 25000,
+				"spent": 3200,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 3200,
+				"impressions": 85000,
+				"clicks": 2550,
+				"ctr": 3.0,
+				"cpc": 1.25,
+				"conversions": 28,
+				"conversionRate": 1.1,
+				"cpa": 114.29,
+				"revenue": 12320,
+				"roas": 3.85
+			},
+			"platformData": {
+				"campaignType": "Shopping",
+				"qualityScore": null,
+				"searchImpressionShare": 22.1,
+				"viewRate": null,
+				"adGroupCount": 1
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 0,
+					"impressions": 0,
+					"clicks": 0,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 210,
+					"impressions": 5500,
+					"clicks": 165,
+					"conversions": 1,
+					"revenue": 440
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 380,
+					"impressions": 10100,
+					"clicks": 303,
+					"conversions": 3,
+					"revenue": 1320
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 420,
+					"impressions": 11200,
+					"clicks": 336,
+					"conversions": 3,
+					"revenue": 1320
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 450,
+					"impressions": 12000,
+					"clicks": 360,
+					"conversions": 4,
+					"revenue": 1760
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 480,
+					"impressions": 12800,
+					"clicks": 384,
+					"conversions": 4,
+					"revenue": 1760
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 490,
+					"impressions": 13100,
+					"clicks": 393,
+					"conversions": 4,
+					"revenue": 1760
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 480,
+					"impressions": 12800,
+					"clicks": 384,
+					"conversions": 3,
+					"revenue": 1320
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 490,
+					"impressions": 13100,
+					"clicks": 393,
+					"conversions": 4,
+					"revenue": 1760
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 500,
+					"impressions": 13400,
+					"clicks": 402,
+					"conversions": 4,
+					"revenue": 1760
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 500,
+					"impressions": 13400,
+					"clicks": 402,
+					"conversions": 5,
+					"revenue": 2200
+				}
+			]
+		},
+		{
+			"id": "camp_010",
+			"name": "Meta Prospecting MX",
+			"platform": "meta",
+			"status": "active",
+			"funnelObjective": "awareness",
+			"startDate": "2024-10-01",
+			"endDate": "2024-12-31",
+			"budget": {
+				"daily": 250,
+				"total": 8000,
+				"spent": 5500,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 5500,
+				"impressions": 780000,
+				"clicks": 7020,
+				"ctr": 0.9,
+				"cpc": 0.78,
+				"conversions": 0,
+				"conversionRate": 0,
+				"cpa": null,
+				"revenue": 0,
+				"roas": null
+			},
+			"platformData": {
+				"reach": 450000,
+				"frequency": 1.73,
+				"cpm": 7.05,
+				"videoViews": 212000,
+				"adSetCount": 2,
+				"campaignObjective": "OUTCOME_AWARENESS"
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 245,
+					"impressions": 34800,
+					"clicks": 313,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 238,
+					"impressions": 33800,
+					"clicks": 304,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 248,
+					"impressions": 35200,
+					"clicks": 317,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 249,
+					"impressions": 35400,
+					"clicks": 319,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 242,
+					"impressions": 34400,
+					"clicks": 310,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 249,
+					"impressions": 35400,
+					"clicks": 319,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 249,
+					"impressions": 35400,
+					"clicks": 319,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
+					"conversions": 0,
+					"revenue": 0
+				}
+			]
+		},
+		{
+			"id": "camp_011",
+			"name": "Sponsored Products Q4",
+			"platform": "amazon",
+			"status": "active",
+			"funnelObjective": "conversion",
+			"startDate": "2024-10-01",
+			"endDate": "2024-12-31",
+			"budget": {
+				"daily": 400,
+				"total": 15000,
+				"spent": 9800,
+				"currency": "MXN"
+			},
+			"metrics": {
+				"spend": 9800,
+				"impressions": 520000,
+				"clicks": 6760,
+				"ctr": 1.3,
+				"cpc": 1.45,
+				"conversions": 168,
+				"conversionRate": 2.49,
+				"cpa": 58.33,
+				"revenue": 47040,
+				"roas": 4.8
+			},
+			"platformData": {
+				"campaignType": "Sponsored Products",
+				"acos": 20.83,
+				"ntbOrders": 62,
+				"ntbOrdersPercentage": 36.9,
+				"impressionShare": 28.6
+			},
+			"dailyData": [
+				{
+					"date": "2024-10-18",
+					"spend": 390,
+					"impressions": 20800,
+					"clicks": 270,
+					"conversions": 6,
+					"revenue": 1680
+				},
+				{
+					"date": "2024-10-19",
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 375,
+					"impressions": 20000,
+					"clicks": 260,
+					"conversions": 6,
+					"revenue": 1680
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 398,
+					"impressions": 21200,
+					"clicks": 276,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-22",
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-23",
+					"spend": 399,
+					"impressions": 21300,
+					"clicks": 277,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-24",
+					"spend": 385,
+					"impressions": 20500,
+					"clicks": 267,
+					"conversions": 6,
+					"revenue": 1680
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 399,
+					"impressions": 21300,
+					"clicks": 277,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 399,
+					"impressions": 21300,
+					"clicks": 277,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-29",
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
+					"date": "2024-10-30",
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 8,
+					"revenue": 2240
+				},
+				{
+					"date": "2024-10-31",
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 8,
+					"revenue": 2240
+				}
+			]
+		}
+	]
+}
