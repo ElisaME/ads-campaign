@@ -19,7 +19,7 @@ export function Sidebar() {
 			{/* Button mobile */}
 			<button
 				onClick={() => setIsOpen(true)}
-				className="lg:hidden bg-slate-950 fixed top-4 left-4 h-9 w-9 flex items-center justify-center rounded-lg shadow-md text-slate-400"
+				className="lg:hidden bg-slate-950 fixed top-4 left-4 h-9 w-9 flex items-center justify-center rounded-lg shadow-md text-slate-400 z-10"
 			>
 				<Menu className="h-5 w-5 text-slate-400" />
 			</button>

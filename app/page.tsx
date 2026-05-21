@@ -1,5 +1,6 @@
 import { PageHeader } from '@/components/dashboard/PageHeader';
 import { DisplayKPIs } from '@/components/dashboard/KPICards';
+import { CampaignTable } from '@/components/dashboard/CampaignTable';
 
 export default function Home() {
 	return (
@@ -17,6 +18,7 @@ export default function Home() {
 					últimos 7 días
 				</p>
 			</div>
+			<CampaignTable />
 		</div>
 	);
 }

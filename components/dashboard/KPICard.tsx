@@ -6,7 +6,6 @@ import {
 	formatMultiplier,
 } from '@/lib/formatters';
 import { TrendingDown, TrendingUp } from 'lucide-react';
-import { Line, LineChart } from 'recharts';
 import { Sparkline } from './Sparkline';
 
 type dailyData = {
@@ -42,9 +41,11 @@ export function KPIDataCard({ kpi, dailyData }: KPIDataCardProps) {
 			key={kpi.id}
 			className="p-4 flex flex-col space-y-2 h-48 justify-center"
 		>
-			<h3 className="uppercase text-slate-500 text-xs mb-6">{kpi.label}</h3>
-			<div className="flex">
-				<p className="letter-spacing-1 text-3xl font-mono font-medium">
+			<h3 className="uppercase text-slate-500 text-xs mb-3 lg:mb-6">
+				{kpi.label}
+			</h3>
+			<div className="flex justify-between">
+				<p className="letter-spacing-1 text-2xl lg:text-3xl font-mono font-medium">
 					{formatKpIValue(kpi)}{' '}
 				</p>
 				<div className="flex items-center gap-1 ml-4 text-green-600 text-sm">
