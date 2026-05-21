@@ -49,16 +49,22 @@ export function PageHeader({
 					</DropdownMenuTrigger>
 					<DropdownMenuContent>
 						<DropdownMenuItem onClick={() => setDateSelection('Last 7 Days')}>
-							Last 7 Days
+							Últimos 7 Días
 						</DropdownMenuItem>
-						<DropdownMenuItem onClick={() => setDateSelection('Last 14 Days')}>
-							Last 14 Days
+						<DropdownMenuItem
+							onClick={() => setDateSelection('Últimos 14 íass')}
+						>
+							Últimos 14 Días
 						</DropdownMenuItem>
-						<DropdownMenuItem onClick={() => setDateSelection('Last 30 Days')}>
-							Last 30 Days
+						<DropdownMenuItem
+							onClick={() => setDateSelection('Últimos 30 íass')}
+						>
+							Últimos 30 Días
 						</DropdownMenuItem>
-						<DropdownMenuItem onClick={() => setDateSelection('Last 90 Days')}>
-							Last 90 Days
+						<DropdownMenuItem
+							onClick={() => setDateSelection('Últimos 90 íass')}
+						>
+							Últimos 90 Días
 						</DropdownMenuItem>
 					</DropdownMenuContent>
 				</DropdownMenu>

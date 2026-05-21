@@ -2,7 +2,7 @@
 export const kpiConfig = {
   'total-spend': {
     comparison: 'vs budget',
-    note: 'Across 3 platforms',
+    note: 'En 3 platformas',
   },
   'attributed-revenue': {
     comparison: 'WoW',
@@ -16,6 +16,6 @@ export const kpiConfig = {
   'blended-cpa': {
     comparison: 'WoW',
     target: 22,
-    targetLabel: 'target ≤ $22',
+    targetLabel: 'Target ≤ $22',
   },
 }

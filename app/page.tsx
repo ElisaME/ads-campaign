@@ -6,10 +6,17 @@ export default function Home() {
 		<div className="px-8 py-4">
 			<PageHeader
 				title="Omnichannel Ads Performance"
-				breadcrumb="Reports > Performance"
+				breadcrumb="Reportes > Performance"
 				lastSynced="Synced 5 min ago" //mock last synced time
 			/>
 			<DisplayKPIs />
+			<div>
+				<h3 className="font-semibold">Campañas Unificadas</h3>
+				<p className="text-sm">
+					Métricas homologadas de plataformas Meta, Google Ads & Amazon Ads *
+					últimos 7 días
+				</p>
+			</div>
 		</div>
 	);
 }

@@ -70,13 +70,13 @@ export function Sidebar() {
 				{/* Navigation */}
 				<nav className="flex-1 overflow-y-auto px-3 py-3">
 					<p className="uppercase text-xs font-semibold text-slate-400 mb-2">
-						Manage
+						Administrar
 					</p>
 					<ul className="space-y-1.5">
 						<li>
 							<Link href={'#'} className="flex items-center gap-2.5 text-sm">
 								<Megaphone className="h-4 w-4" />
-								<span className="px-1.5">Campaigns</span>
+								<span className="px-1.5">Campañas</span>
 							</Link>
 						</li>
 					</ul>
@@ -87,13 +87,13 @@ export function Sidebar() {
 						<li>
 							<span className="flex items-center gap-2.5 text-sm">
 								<CableIcon className="h-4 w-4" />
-								<span className="px-1.5">Integrations</span>
+								<span className="px-1.5">Integraciones</span>
 							</span>
 						</li>
 						<li>
 							<span className="flex items-center gap-2.5 text-sm">
 								<Settings className="h-4 w-4" />
-								<span className="px-1.5">Settings</span>
+								<span className="px-1.5">Configuración</span>
 							</span>
 						</li>
 					</ul>
