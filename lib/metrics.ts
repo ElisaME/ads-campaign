@@ -1,6 +1,7 @@
 //lib/metrics.ts
 //------- Lógica para métricas de KPIs--------
 
+import { kpiConfig } from "@/data/kpi-config";
 import { Campaign } from "@/types/campaign"
 
 export interface AggregatedTotals {
@@ -166,6 +167,12 @@ export interface KPICard{
     delta: DeltaResult
     sparklineField: SparklineField
     format: 'currency' | 'multiplier' | 'currency-compact'
+    config: {
+        comparison: string
+        target?: number
+        targetLabel?: string
+        note?: string
+    }
 }
 
 export function buildKPIs(campaigns: Campaign[]): KPICards{
@@ -175,11 +182,12 @@ export function buildKPIs(campaigns: Campaign[]): KPICards{
     const items : KPICard[] = [
         {
             id: 'totalSpend',
-            label: 'Total Spend',
+            label: 'Total Ads Spend',
             value: totals.totalSpend,
             delta: calculateData(dailyData, 'spend', false),
             sparklineField: 'spend',
-            format:'currency'
+            format:'currency',
+            config: kpiConfig['total-spend']
         },
          {
             id: 'attributedRevenue',
@@ -187,7 +195,8 @@ export function buildKPIs(campaigns: Campaign[]): KPICards{
             value: totals.totalRevenue,
             delta: calculateData(dailyData, 'revenue', true),
             sparklineField: 'revenue',
-            format:'currency'
+            format:'currency',
+            config:kpiConfig['blended-cpa']
         },
          {
             id: 'blendedRoas',
@@ -195,7 +204,8 @@ export function buildKPIs(campaigns: Campaign[]): KPICards{
             value: totals.blendedROAS,
             delta: calculateData(dailyData, 'roas', true),
             sparklineField: 'roas',
-            format:'multiplier'
+            format:'multiplier',
+            config:kpiConfig['blended-roas']
         },
          {
             id: 'blendedCpa',
@@ -203,7 +213,8 @@ export function buildKPIs(campaigns: Campaign[]): KPICards{
             value: totals.blendedCPA,
             delta: calculateData(dailyData, 'cpa', false),
             sparklineField: 'cpa',
-            format:'currency'
+            format:'currency',
+            config:kpiConfig['blended-cpa']
         }
     ]
     return { items, dailyData, totals}

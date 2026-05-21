@@ -26,7 +26,7 @@ export function PageHeader({
 }) {
 	const [dateSelection, setDateSelection] = useState('Last 30 Days');
 	return (
-		<header className="flex items-center justify-between gap-4">
+		<header className="lg:mt-0 mt-10 flex items-center justify-between gap-4">
 			<div>
 				<nav className="text-sm text-slate-500 mt-1">{breadcrumb}</nav>
 				<h1 className="text-2xl font-bold text-slate-950">{title}</h1>

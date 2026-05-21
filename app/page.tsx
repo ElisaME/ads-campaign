@@ -1,5 +1,6 @@
 import { PageHeader } from '@/components/dashboard/PageHeader';
 import { DisplayKPIs } from '@/components/dashboard/KPICards';
+
 export default function Home() {
 	return (
 		<div className="px-8 py-4">

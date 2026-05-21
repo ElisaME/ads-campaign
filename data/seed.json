@@ -43,97 +43,97 @@
 			"dailyData": [
 				{
 					"date": "2024-10-18",
-					"spend": 1380,
-					"impressions": 40800,
-					"clicks": 1273,
-					"conversions": 15,
-					"revenue": 5325
+					"spend": 1420,
+					"impressions": 42000,
+					"clicks": 1310,
+					"conversions": 17,
+					"revenue": 6035
 				},
 				{
 					"date": "2024-10-19",
-					"spend": 1420,
-					"impressions": 42100,
-					"clicks": 1313,
-					"conversions": 16,
-					"revenue": 5680
+					"spend": 980,
+					"impressions": 29000,
+					"clicks": 905,
+					"conversions": 10,
+					"revenue": 3550
 				},
 				{
 					"date": "2024-10-20",
-					"spend": 1180,
-					"impressions": 35200,
-					"clicks": 1098,
-					"conversions": 13,
-					"revenue": 4615
+					"spend": 750,
+					"impressions": 22000,
+					"clicks": 686,
+					"conversions": 7,
+					"revenue": 2485
 				},
 				{
 					"date": "2024-10-21",
-					"spend": 1350,
-					"impressions": 40000,
-					"clicks": 1248,
-					"conversions": 15,
-					"revenue": 5325
+					"spend": 1280,
+					"impressions": 38000,
+					"clicks": 1186,
+					"conversions": 14,
+					"revenue": 4970
 				},
 				{
 					"date": "2024-10-22",
-					"spend": 1490,
-					"impressions": 44200,
-					"clicks": 1379,
+					"spend": 1450,
+					"impressions": 43000,
+					"clicks": 1342,
 					"conversions": 18,
 					"revenue": 6390
 				},
 				{
 					"date": "2024-10-23",
 					"spend": 1500,
-					"impressions": 44800,
-					"clicks": 1398,
-					"conversions": 19,
-					"revenue": 6745
+					"impressions": 45000,
+					"clicks": 1404,
+					"conversions": 22,
+					"revenue": 7810
 				},
 				{
 					"date": "2024-10-24",
-					"spend": 1410,
-					"impressions": 41900,
-					"clicks": 1307,
-					"conversions": 17,
-					"revenue": 6035
-				},
-				{
-					"date": "2024-10-25",
-					"spend": 1460,
-					"impressions": 43300,
-					"clicks": 1351,
-					"conversions": 18,
-					"revenue": 6390
-				},
-				{
-					"date": "2024-10-26",
-					"spend": 1500,
-					"impressions": 44800,
-					"clicks": 1398,
+					"spend": 1480,
+					"impressions": 44000,
+					"clicks": 1373,
 					"conversions": 20,
 					"revenue": 7100
 				},
 				{
-					"date": "2024-10-27",
-					"spend": 1490,
-					"impressions": 44200,
-					"clicks": 1379,
+					"date": "2024-10-25",
+					"spend": 1500,
+					"impressions": 45000,
+					"clicks": 1404,
 					"conversions": 21,
 					"revenue": 7455
 				},
 				{
+					"date": "2024-10-26",
+					"spend": 1050,
+					"impressions": 31000,
+					"clicks": 967,
+					"conversions": 11,
+					"revenue": 3905
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 820,
+					"impressions": 24000,
+					"clicks": 749,
+					"conversions": 8,
+					"revenue": 2840
+				},
+				{
 					"date": "2024-10-28",
-					"spend": 1480,
-					"impressions": 43900,
-					"clicks": 1370,
-					"conversions": 20,
-					"revenue": 7100
+					"spend": 1380,
+					"impressions": 41000,
+					"clicks": 1279,
+					"conversions": 17,
+					"revenue": 6035
 				},
 				{
 					"date": "2024-10-29",
-					"spend": 1500,
-					"impressions": 44800,
-					"clicks": 1398,
+					"spend": 1490,
+					"impressions": 44500,
+					"clicks": 1388,
 					"conversions": 22,
 					"revenue": 7810
 				},
@@ -142,16 +142,16 @@
 					"spend": 1500,
 					"impressions": 45000,
 					"clicks": 1404,
-					"conversions": 23,
-					"revenue": 8165
+					"conversions": 25,
+					"revenue": 8875
 				},
 				{
 					"date": "2024-10-31",
 					"spend": 1500,
 					"impressions": 45000,
 					"clicks": 1404,
-					"conversions": 24,
-					"revenue": 8520
+					"conversions": 28,
+					"revenue": 9940
 				}
 			]
 		},
@@ -191,14 +191,38 @@
 			"dailyData": [
 				{
 					"date": "2024-10-18",
-					"spend": 790,
-					"impressions": 27400,
-					"clicks": 397,
-					"conversions": 9,
-					"revenue": 2925
+					"spend": 800,
+					"impressions": 28000,
+					"clicks": 406,
+					"conversions": 10,
+					"revenue": 3250
 				},
 				{
 					"date": "2024-10-19",
+					"spend": 520,
+					"impressions": 18000,
+					"clicks": 261,
+					"conversions": 5,
+					"revenue": 1625
+				},
+				{
+					"date": "2024-10-20",
+					"spend": 390,
+					"impressions": 13500,
+					"clicks": 196,
+					"conversions": 3,
+					"revenue": 975
+				},
+				{
+					"date": "2024-10-21",
+					"spend": 760,
+					"impressions": 26500,
+					"clicks": 384,
+					"conversions": 8,
+					"revenue": 2600
+				},
+				{
+					"date": "2024-10-22",
 					"spend": 800,
 					"impressions": 28000,
 					"clicks": 406,
@@ -206,100 +230,76 @@
 					"revenue": 2925
 				},
 				{
-					"date": "2024-10-20",
-					"spend": 760,
-					"impressions": 26100,
-					"clicks": 378,
-					"conversions": 7,
-					"revenue": 2275
-				},
-				{
-					"date": "2024-10-21",
-					"spend": 800,
-					"impressions": 28100,
-					"clicks": 407,
-					"conversions": 8,
-					"revenue": 2600
-				},
-				{
-					"date": "2024-10-22",
-					"spend": 800,
-					"impressions": 28200,
-					"clicks": 409,
-					"conversions": 9,
-					"revenue": 2925
-				},
-				{
 					"date": "2024-10-23",
-					"spend": 780,
-					"impressions": 27100,
-					"clicks": 393,
+					"spend": 790,
+					"impressions": 27500,
+					"clicks": 399,
 					"conversions": 8,
 					"revenue": 2600
 				},
 				{
 					"date": "2024-10-24",
-					"spend": 760,
-					"impressions": 26200,
-					"clicks": 380,
+					"spend": 770,
+					"impressions": 26800,
+					"clicks": 389,
 					"conversions": 7,
 					"revenue": 2275
 				},
 				{
 					"date": "2024-10-25",
 					"spend": 800,
-					"impressions": 28100,
-					"clicks": 407,
+					"impressions": 28000,
+					"clicks": 406,
 					"conversions": 8,
 					"revenue": 2600
 				},
 				{
 					"date": "2024-10-26",
-					"spend": 800,
-					"impressions": 28100,
-					"clicks": 407,
-					"conversions": 9,
-					"revenue": 2925
+					"spend": 480,
+					"impressions": 16700,
+					"clicks": 242,
+					"conversions": 4,
+					"revenue": 1300
 				},
 				{
 					"date": "2024-10-27",
-					"spend": 780,
-					"impressions": 27000,
-					"clicks": 391,
-					"conversions": 7,
-					"revenue": 2275
+					"spend": 350,
+					"impressions": 12200,
+					"clicks": 177,
+					"conversions": 3,
+					"revenue": 975
 				},
 				{
 					"date": "2024-10-28",
-					"spend": 760,
-					"impressions": 26100,
-					"clicks": 378,
+					"spend": 720,
+					"impressions": 25000,
+					"clicks": 363,
 					"conversions": 7,
 					"revenue": 2275
 				},
 				{
 					"date": "2024-10-29",
-					"spend": 800,
-					"impressions": 28100,
-					"clicks": 407,
-					"conversions": 8,
-					"revenue": 2600
-				},
-				{
-					"date": "2024-10-30",
-					"spend": 790,
-					"impressions": 27400,
-					"clicks": 397,
+					"spend": 780,
+					"impressions": 27100,
+					"clicks": 393,
 					"conversions": 7,
 					"revenue": 2275
 				},
 				{
+					"date": "2024-10-30",
+					"spend": 750,
+					"impressions": 26100,
+					"clicks": 379,
+					"conversions": 6,
+					"revenue": 1950
+				},
+				{
 					"date": "2024-10-31",
-					"spend": 780,
-					"impressions": 27100,
-					"clicks": 393,
-					"conversions": 8,
-					"revenue": 2600
+					"spend": 760,
+					"impressions": 26500,
+					"clicks": 384,
+					"conversions": 7,
+					"revenue": 2275
 				}
 			]
 		},
@@ -339,65 +339,65 @@
 			"dailyData": [
 				{
 					"date": "2024-10-18",
-					"spend": 198,
-					"impressions": 58200,
-					"clicks": 477,
+					"spend": 200,
+					"impressions": 62000,
+					"clicks": 509,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-19",
-					"spend": 200,
-					"impressions": 60100,
-					"clicks": 493,
+					"spend": 175,
+					"impressions": 54000,
+					"clicks": 443,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-20",
-					"spend": 195,
-					"impressions": 57400,
-					"clicks": 471,
+					"spend": 140,
+					"impressions": 43000,
+					"clicks": 353,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-21",
-					"spend": 200,
-					"impressions": 60200,
-					"clicks": 494,
-					"conversions": 0,
-					"revenue": 0
-				},
-				{
-					"date": "2024-10-22",
-					"spend": 200,
+					"spend": 195,
 					"impressions": 60000,
 					"clicks": 492,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
+					"date": "2024-10-22",
+					"spend": 200,
+					"impressions": 62000,
+					"clicks": 509,
+					"conversions": 0,
+					"revenue": 0
+				},
+				{
 					"date": "2024-10-23",
-					"spend": 197,
-					"impressions": 58700,
-					"clicks": 482,
+					"spend": 200,
+					"impressions": 62500,
+					"clicks": 513,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-24",
 					"spend": 200,
-					"impressions": 60200,
-					"clicks": 494,
+					"impressions": 62000,
+					"clicks": 509,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-25",
-					"spend": 110,
-					"impressions": 35200,
-					"clicks": 287,
+					"spend": 90,
+					"impressions": 28000,
+					"clicks": 230,
 					"conversions": 0,
 					"revenue": 0
 				},
@@ -487,35 +487,35 @@
 			"dailyData": [
 				{
 					"date": "2024-10-18",
-					"spend": 310,
-					"impressions": 4520,
-					"clicks": 316,
-					"conversions": 13,
-					"revenue": 3250
+					"spend": 340,
+					"impressions": 4900,
+					"clicks": 343,
+					"conversions": 15,
+					"revenue": 3750
 				},
 				{
 					"date": "2024-10-19",
-					"spend": 345,
-					"impressions": 5020,
-					"clicks": 351,
-					"conversions": 15,
-					"revenue": 3750
+					"spend": 200,
+					"impressions": 2900,
+					"clicks": 203,
+					"conversions": 8,
+					"revenue": 2000
 				},
 				{
 					"date": "2024-10-20",
-					"spend": 290,
-					"impressions": 4210,
-					"clicks": 295,
-					"conversions": 12,
-					"revenue": 3000
+					"spend": 155,
+					"impressions": 2200,
+					"clicks": 154,
+					"conversions": 6,
+					"revenue": 1500
 				},
 				{
 					"date": "2024-10-21",
-					"spend": 340,
-					"impressions": 4950,
-					"clicks": 346,
-					"conversions": 15,
-					"revenue": 3750
+					"spend": 330,
+					"impressions": 4800,
+					"clicks": 336,
+					"conversions": 14,
+					"revenue": 3500
 				},
 				{
 					"date": "2024-10-22",
@@ -527,38 +527,6 @@
 				},
 				{
 					"date": "2024-10-23",
-					"spend": 348,
-					"impressions": 5070,
-					"clicks": 355,
-					"conversions": 16,
-					"revenue": 4000
-				},
-				{
-					"date": "2024-10-24",
-					"spend": 320,
-					"impressions": 4660,
-					"clicks": 326,
-					"conversions": 14,
-					"revenue": 3500
-				},
-				{
-					"date": "2024-10-25",
-					"spend": 348,
-					"impressions": 5070,
-					"clicks": 355,
-					"conversions": 16,
-					"revenue": 4000
-				},
-				{
-					"date": "2024-10-26",
-					"spend": 350,
-					"impressions": 5100,
-					"clicks": 357,
-					"conversions": 16,
-					"revenue": 4000
-				},
-				{
-					"date": "2024-10-27",
 					"spend": 350,
 					"impressions": 5100,
 					"clicks": 357,
@@ -566,10 +534,42 @@
 					"revenue": 4250
 				},
 				{
-					"date": "2024-10-28",
+					"date": "2024-10-24",
 					"spend": 345,
-					"impressions": 5020,
-					"clicks": 351,
+					"impressions": 5000,
+					"clicks": 350,
+					"conversions": 16,
+					"revenue": 4000
+				},
+				{
+					"date": "2024-10-25",
+					"spend": 350,
+					"impressions": 5100,
+					"clicks": 357,
+					"conversions": 16,
+					"revenue": 4000
+				},
+				{
+					"date": "2024-10-26",
+					"spend": 210,
+					"impressions": 3000,
+					"clicks": 210,
+					"conversions": 9,
+					"revenue": 2250
+				},
+				{
+					"date": "2024-10-27",
+					"spend": 160,
+					"impressions": 2300,
+					"clicks": 161,
+					"conversions": 6,
+					"revenue": 1500
+				},
+				{
+					"date": "2024-10-28",
+					"spend": 340,
+					"impressions": 4900,
+					"clicks": 343,
 					"conversions": 15,
 					"revenue": 3750
 				},
@@ -586,16 +586,16 @@
 					"spend": 350,
 					"impressions": 5100,
 					"clicks": 357,
-					"conversions": 17,
-					"revenue": 4250
+					"conversions": 18,
+					"revenue": 4500
 				},
 				{
 					"date": "2024-10-31",
 					"spend": 350,
 					"impressions": 5100,
 					"clicks": 357,
-					"conversions": 17,
-					"revenue": 4250
+					"conversions": 18,
+					"revenue": 4500
 				}
 			]
 		},
@@ -639,48 +639,48 @@
 					"spend": 980,
 					"impressions": 31200,
 					"clicks": 749,
-					"conversions": 11,
-					"revenue": 3080
-				},
-				{
-					"date": "2024-10-19",
-					"spend": 1000,
-					"impressions": 31900,
-					"clicks": 766,
 					"conversions": 12,
 					"revenue": 3360
 				},
 				{
+					"date": "2024-10-19",
+					"spend": 680,
+					"impressions": 21700,
+					"clicks": 521,
+					"conversions": 7,
+					"revenue": 1960
+				},
+				{
 					"date": "2024-10-20",
-					"spend": 850,
-					"impressions": 27100,
-					"clicks": 650,
-					"conversions": 9,
-					"revenue": 2520
+					"spend": 520,
+					"impressions": 16600,
+					"clicks": 398,
+					"conversions": 5,
+					"revenue": 1400
 				},
 				{
 					"date": "2024-10-21",
-					"spend": 970,
-					"impressions": 30900,
-					"clicks": 742,
-					"conversions": 11,
-					"revenue": 3080
+					"spend": 940,
+					"impressions": 29900,
+					"clicks": 718,
+					"conversions": 10,
+					"revenue": 2800
 				},
 				{
 					"date": "2024-10-22",
 					"spend": 1000,
 					"impressions": 31900,
 					"clicks": 766,
-					"conversions": 12,
-					"revenue": 3360
+					"conversions": 13,
+					"revenue": 3640
 				},
 				{
 					"date": "2024-10-23",
 					"spend": 990,
 					"impressions": 31500,
 					"clicks": 756,
-					"conversions": 11,
-					"revenue": 3080
+					"conversions": 12,
+					"revenue": 3360
 				},
 				{
 					"date": "2024-10-24",
@@ -692,9 +692,9 @@
 				},
 				{
 					"date": "2024-10-25",
-					"spend": 500,
-					"impressions": 15900,
-					"clicks": 382,
+					"spend": 480,
+					"impressions": 15300,
+					"clicks": 367,
 					"conversions": 5,
 					"revenue": 1400
 				},
@@ -784,115 +784,115 @@
 			"dailyData": [
 				{
 					"date": "2024-10-18",
-					"spend": 480,
-					"impressions": 27100,
-					"clicks": 325,
-					"conversions": 8,
-					"revenue": 2400
+					"spend": 490,
+					"impressions": 28000,
+					"clicks": 336,
+					"conversions": 10,
+					"revenue": 3000
 				},
 				{
 					"date": "2024-10-19",
-					"spend": 500,
-					"impressions": 28300,
-					"clicks": 340,
-					"conversions": 9,
-					"revenue": 2700
+					"spend": 380,
+					"impressions": 21700,
+					"clicks": 260,
+					"conversions": 7,
+					"revenue": 2100
 				},
 				{
 					"date": "2024-10-20",
-					"spend": 460,
-					"impressions": 26000,
-					"clicks": 312,
-					"conversions": 8,
-					"revenue": 2400
+					"spend": 280,
+					"impressions": 16000,
+					"clicks": 192,
+					"conversions": 5,
+					"revenue": 1500
 				},
 				{
 					"date": "2024-10-21",
-					"spend": 495,
-					"impressions": 28000,
-					"clicks": 336,
+					"spend": 470,
+					"impressions": 26800,
+					"clicks": 322,
 					"conversions": 9,
 					"revenue": 2700
 				},
 				{
 					"date": "2024-10-22",
 					"spend": 500,
-					"impressions": 28300,
-					"clicks": 340,
+					"impressions": 28600,
+					"clicks": 343,
 					"conversions": 10,
 					"revenue": 3000
 				},
 				{
 					"date": "2024-10-23",
-					"spend": 498,
-					"impressions": 28100,
-					"clicks": 337,
-					"conversions": 9,
-					"revenue": 2700
+					"spend": 500,
+					"impressions": 28600,
+					"clicks": 343,
+					"conversions": 11,
+					"revenue": 3300
 				},
 				{
 					"date": "2024-10-24",
-					"spend": 475,
-					"impressions": 26800,
-					"clicks": 322,
-					"conversions": 8,
-					"revenue": 2400
+					"spend": 490,
+					"impressions": 28000,
+					"clicks": 336,
+					"conversions": 10,
+					"revenue": 3000
 				},
 				{
 					"date": "2024-10-25",
 					"spend": 500,
-					"impressions": 28300,
-					"clicks": 340,
-					"conversions": 10,
-					"revenue": 3000
+					"impressions": 28600,
+					"clicks": 343,
+					"conversions": 11,
+					"revenue": 3300
 				},
 				{
 					"date": "2024-10-26",
-					"spend": 500,
-					"impressions": 28300,
-					"clicks": 340,
-					"conversions": 10,
-					"revenue": 3000
+					"spend": 360,
+					"impressions": 20600,
+					"clicks": 247,
+					"conversions": 7,
+					"revenue": 2100
 				},
 				{
 					"date": "2024-10-27",
-					"spend": 499,
-					"impressions": 28200,
-					"clicks": 338,
-					"conversions": 10,
-					"revenue": 3000
+					"spend": 270,
+					"impressions": 15400,
+					"clicks": 185,
+					"conversions": 5,
+					"revenue": 1500
 				},
 				{
 					"date": "2024-10-28",
-					"spend": 498,
-					"impressions": 28100,
-					"clicks": 337,
-					"conversions": 9,
-					"revenue": 2700
+					"spend": 480,
+					"impressions": 27400,
+					"clicks": 329,
+					"conversions": 10,
+					"revenue": 3000
 				},
 				{
 					"date": "2024-10-29",
 					"spend": 500,
-					"impressions": 28300,
-					"clicks": 340,
-					"conversions": 10,
-					"revenue": 3000
+					"impressions": 28600,
+					"clicks": 343,
+					"conversions": 11,
+					"revenue": 3300
 				},
 				{
 					"date": "2024-10-30",
 					"spend": 500,
-					"impressions": 28300,
-					"clicks": 340,
-					"conversions": 10,
-					"revenue": 3000
+					"impressions": 28600,
+					"clicks": 343,
+					"conversions": 12,
+					"revenue": 3600
 				},
 				{
 					"date": "2024-10-31",
 					"spend": 500,
-					"impressions": 28300,
-					"clicks": 340,
-					"conversions": 11,
-					"revenue": 3300
+					"impressions": 28600,
+					"clicks": 343,
+					"conversions": 12,
+					"revenue": 3600
 				}
 			]
 		},
@@ -932,113 +932,113 @@
 			"dailyData": [
 				{
 					"date": "2024-10-18",
-					"spend": 590,
-					"impressions": 108000,
-					"clicks": 864,
+					"spend": 580,
+					"impressions": 105000,
+					"clicks": 840,
 					"conversions": 2,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-19",
-					"spend": 600,
-					"impressions": 110000,
-					"clicks": 880,
-					"conversions": 3,
+					"spend": 420,
+					"impressions": 76000,
+					"clicks": 608,
+					"conversions": 1,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-20",
-					"spend": 560,
-					"impressions": 102000,
-					"clicks": 816,
-					"conversions": 2,
+					"spend": 310,
+					"impressions": 56000,
+					"clicks": 448,
+					"conversions": 1,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-21",
-					"spend": 595,
-					"impressions": 108800,
-					"clicks": 870,
-					"conversions": 3,
+					"spend": 570,
+					"impressions": 103000,
+					"clicks": 824,
+					"conversions": 2,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-22",
 					"spend": 600,
-					"impressions": 110000,
-					"clicks": 880,
+					"impressions": 109000,
+					"clicks": 872,
 					"conversions": 3,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-23",
-					"spend": 598,
-					"impressions": 109400,
-					"clicks": 875,
-					"conversions": 3,
+					"spend": 600,
+					"impressions": 109000,
+					"clicks": 872,
+					"conversions": 4,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-24",
-					"spend": 575,
-					"impressions": 105100,
-					"clicks": 841,
-					"conversions": 2,
+					"spend": 590,
+					"impressions": 107000,
+					"clicks": 856,
+					"conversions": 3,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-25",
-					"spend": 598,
-					"impressions": 109400,
-					"clicks": 875,
+					"spend": 600,
+					"impressions": 109000,
+					"clicks": 872,
 					"conversions": 3,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-26",
-					"spend": 600,
-					"impressions": 110000,
-					"clicks": 880,
-					"conversions": 3,
+					"spend": 430,
+					"impressions": 78000,
+					"clicks": 624,
+					"conversions": 2,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-27",
-					"spend": 600,
-					"impressions": 110000,
-					"clicks": 880,
-					"conversions": 4,
+					"spend": 320,
+					"impressions": 58000,
+					"clicks": 464,
+					"conversions": 1,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-28",
-					"spend": 598,
-					"impressions": 109400,
-					"clicks": 875,
+					"spend": 580,
+					"impressions": 105000,
+					"clicks": 840,
 					"conversions": 3,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-29",
 					"spend": 600,
-					"impressions": 110000,
-					"clicks": 880,
+					"impressions": 109000,
+					"clicks": 872,
 					"conversions": 4,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-30",
 					"spend": 600,
-					"impressions": 110000,
-					"clicks": 880,
+					"impressions": 109000,
+					"clicks": 872,
 					"conversions": 4,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-31",
 					"spend": 600,
-					"impressions": 110000,
-					"clicks": 880,
+					"impressions": 109000,
+					"clicks": 872,
 					"conversions": 4,
 					"revenue": 0
 				}
@@ -1081,33 +1081,33 @@
 			"dailyData": [
 				{
 					"date": "2024-10-18",
-					"spend": 298,
+					"spend": 295,
 					"impressions": 11800,
 					"clicks": 354,
-					"conversions": 2,
-					"revenue": 720
-				},
-				{
-					"date": "2024-10-19",
-					"spend": 300,
-					"impressions": 12000,
-					"clicks": 360,
 					"conversions": 3,
 					"revenue": 1080
 				},
 				{
-					"date": "2024-10-20",
-					"spend": 295,
-					"impressions": 11700,
-					"clicks": 351,
+					"date": "2024-10-19",
+					"spend": 210,
+					"impressions": 8400,
+					"clicks": 252,
 					"conversions": 2,
 					"revenue": 720
 				},
 				{
+					"date": "2024-10-20",
+					"spend": 160,
+					"impressions": 6400,
+					"clicks": 192,
+					"conversions": 1,
+					"revenue": 360
+				},
+				{
 					"date": "2024-10-21",
-					"spend": 300,
-					"impressions": 12000,
-					"clicks": 360,
+					"spend": 285,
+					"impressions": 11400,
+					"clicks": 342,
 					"conversions": 3,
 					"revenue": 1080
 				},
@@ -1121,25 +1121,25 @@
 				},
 				{
 					"date": "2024-10-23",
-					"spend": 299,
+					"spend": 298,
 					"impressions": 11900,
 					"clicks": 357,
-					"conversions": 2,
-					"revenue": 720
+					"conversions": 3,
+					"revenue": 1080
 				},
 				{
 					"date": "2024-10-24",
-					"spend": 280,
-					"impressions": 11100,
-					"clicks": 333,
+					"spend": 290,
+					"impressions": 11600,
+					"clicks": 348,
 					"conversions": 2,
 					"revenue": 720
 				},
 				{
 					"date": "2024-10-25",
-					"spend": 150,
-					"impressions": 5800,
-					"clicks": 174,
+					"spend": 140,
+					"impressions": 5600,
+					"clicks": 168,
 					"conversions": 1,
 					"revenue": 360
 				},
@@ -1261,83 +1261,83 @@
 				},
 				{
 					"date": "2024-10-22",
-					"spend": 210,
-					"impressions": 5500,
-					"clicks": 165,
+					"spend": 180,
+					"impressions": 4800,
+					"clicks": 144,
 					"conversions": 1,
 					"revenue": 440
 				},
 				{
 					"date": "2024-10-23",
-					"spend": 380,
-					"impressions": 10100,
-					"clicks": 303,
-					"conversions": 3,
-					"revenue": 1320
+					"spend": 320,
+					"impressions": 8600,
+					"clicks": 258,
+					"conversions": 2,
+					"revenue": 880
 				},
 				{
 					"date": "2024-10-24",
-					"spend": 420,
-					"impressions": 11200,
-					"clicks": 336,
+					"spend": 390,
+					"impressions": 10500,
+					"clicks": 315,
 					"conversions": 3,
 					"revenue": 1320
 				},
 				{
 					"date": "2024-10-25",
-					"spend": 450,
-					"impressions": 12000,
-					"clicks": 360,
+					"spend": 440,
+					"impressions": 11800,
+					"clicks": 354,
 					"conversions": 4,
 					"revenue": 1760
 				},
 				{
 					"date": "2024-10-26",
-					"spend": 480,
-					"impressions": 12800,
-					"clicks": 384,
-					"conversions": 4,
-					"revenue": 1760
+					"spend": 320,
+					"impressions": 8600,
+					"clicks": 258,
+					"conversions": 2,
+					"revenue": 880
 				},
 				{
 					"date": "2024-10-27",
-					"spend": 490,
-					"impressions": 13100,
-					"clicks": 393,
-					"conversions": 4,
-					"revenue": 1760
+					"spend": 240,
+					"impressions": 6400,
+					"clicks": 192,
+					"conversions": 2,
+					"revenue": 880
 				},
 				{
 					"date": "2024-10-28",
-					"spend": 480,
-					"impressions": 12800,
-					"clicks": 384,
-					"conversions": 3,
-					"revenue": 1320
+					"spend": 460,
+					"impressions": 12400,
+					"clicks": 372,
+					"conversions": 4,
+					"revenue": 1760
 				},
 				{
 					"date": "2024-10-29",
 					"spend": 490,
-					"impressions": 13100,
-					"clicks": 393,
+					"impressions": 13200,
+					"clicks": 396,
 					"conversions": 4,
 					"revenue": 1760
 				},
 				{
 					"date": "2024-10-30",
 					"spend": 500,
-					"impressions": 13400,
-					"clicks": 402,
-					"conversions": 4,
-					"revenue": 1760
+					"impressions": 13500,
+					"clicks": 405,
+					"conversions": 5,
+					"revenue": 2200
 				},
 				{
 					"date": "2024-10-31",
 					"spend": 500,
-					"impressions": 13400,
-					"clicks": 402,
-					"conversions": 5,
-					"revenue": 2200
+					"impressions": 13500,
+					"clicks": 405,
+					"conversions": 6,
+					"revenue": 2640
 				}
 			]
 		},
@@ -1386,25 +1386,25 @@
 				},
 				{
 					"date": "2024-10-19",
-					"spend": 250,
-					"impressions": 35500,
-					"clicks": 320,
+					"spend": 180,
+					"impressions": 25500,
+					"clicks": 230,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-20",
-					"spend": 238,
-					"impressions": 33800,
-					"clicks": 304,
+					"spend": 140,
+					"impressions": 19900,
+					"clicks": 179,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-21",
-					"spend": 248,
-					"impressions": 35200,
-					"clicks": 317,
+					"spend": 240,
+					"impressions": 34100,
+					"clicks": 307,
 					"conversions": 0,
 					"revenue": 0
 				},
@@ -1418,49 +1418,49 @@
 				},
 				{
 					"date": "2024-10-23",
-					"spend": 249,
-					"impressions": 35400,
-					"clicks": 319,
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-24",
-					"spend": 242,
-					"impressions": 34400,
-					"clicks": 310,
+					"spend": 248,
+					"impressions": 35200,
+					"clicks": 317,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-25",
-					"spend": 249,
-					"impressions": 35400,
-					"clicks": 319,
+					"spend": 250,
+					"impressions": 35500,
+					"clicks": 320,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-26",
-					"spend": 250,
-					"impressions": 35500,
-					"clicks": 320,
+					"spend": 185,
+					"impressions": 26300,
+					"clicks": 237,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-27",
-					"spend": 250,
-					"impressions": 35500,
-					"clicks": 320,
+					"spend": 145,
+					"impressions": 20600,
+					"clicks": 185,
 					"conversions": 0,
 					"revenue": 0
 				},
 				{
 					"date": "2024-10-28",
-					"spend": 249,
-					"impressions": 35400,
-					"clicks": 319,
+					"spend": 242,
+					"impressions": 34400,
+					"clicks": 310,
 					"conversions": 0,
 					"revenue": 0
 				},
@@ -1529,32 +1529,32 @@
 					"spend": 390,
 					"impressions": 20800,
 					"clicks": 270,
-					"conversions": 6,
-					"revenue": 1680
+					"conversions": 7,
+					"revenue": 1960
 				},
 				{
 					"date": "2024-10-19",
-					"spend": 400,
-					"impressions": 21400,
-					"clicks": 278,
-					"conversions": 7,
-					"revenue": 1960
+					"spend": 280,
+					"impressions": 14900,
+					"clicks": 194,
+					"conversions": 4,
+					"revenue": 1120
 				},
 				{
 					"date": "2024-10-20",
-					"spend": 375,
-					"impressions": 20000,
-					"clicks": 260,
-					"conversions": 6,
-					"revenue": 1680
+					"spend": 210,
+					"impressions": 11200,
+					"clicks": 146,
+					"conversions": 3,
+					"revenue": 840
 				},
 				{
 					"date": "2024-10-21",
-					"spend": 398,
-					"impressions": 21200,
-					"clicks": 276,
-					"conversions": 7,
-					"revenue": 1960
+					"spend": 380,
+					"impressions": 20300,
+					"clicks": 264,
+					"conversions": 6,
+					"revenue": 1680
 				},
 				{
 					"date": "2024-10-22",
@@ -1566,49 +1566,49 @@
 				},
 				{
 					"date": "2024-10-23",
-					"spend": 399,
-					"impressions": 21300,
-					"clicks": 277,
-					"conversions": 7,
-					"revenue": 1960
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 8,
+					"revenue": 2240
 				},
 				{
 					"date": "2024-10-24",
-					"spend": 385,
-					"impressions": 20500,
-					"clicks": 267,
-					"conversions": 6,
-					"revenue": 1680
+					"spend": 395,
+					"impressions": 21100,
+					"clicks": 274,
+					"conversions": 7,
+					"revenue": 1960
 				},
 				{
 					"date": "2024-10-25",
-					"spend": 399,
-					"impressions": 21300,
-					"clicks": 277,
-					"conversions": 7,
-					"revenue": 1960
+					"spend": 400,
+					"impressions": 21400,
+					"clicks": 278,
+					"conversions": 8,
+					"revenue": 2240
 				},
 				{
 					"date": "2024-10-26",
-					"spend": 400,
-					"impressions": 21400,
-					"clicks": 278,
-					"conversions": 7,
-					"revenue": 1960
+					"spend": 290,
+					"impressions": 15500,
+					"clicks": 202,
+					"conversions": 5,
+					"revenue": 1400
 				},
 				{
 					"date": "2024-10-27",
-					"spend": 400,
-					"impressions": 21400,
-					"clicks": 278,
-					"conversions": 7,
-					"revenue": 1960
+					"spend": 215,
+					"impressions": 11500,
+					"clicks": 150,
+					"conversions": 3,
+					"revenue": 840
 				},
 				{
 					"date": "2024-10-28",
-					"spend": 399,
-					"impressions": 21300,
-					"clicks": 277,
+					"spend": 385,
+					"impressions": 20600,
+					"clicks": 268,
 					"conversions": 7,
 					"revenue": 1960
 				},
@@ -1617,8 +1617,8 @@
 					"spend": 400,
 					"impressions": 21400,
 					"clicks": 278,
-					"conversions": 7,
-					"revenue": 1960
+					"conversions": 8,
+					"revenue": 2240
 				},
 				{
 					"date": "2024-10-30",
@@ -1633,8 +1633,8 @@
 					"spend": 400,
 					"impressions": 21400,
 					"clicks": 278,
-					"conversions": 8,
-					"revenue": 2240
+					"conversions": 9,
+					"revenue": 2520
 				}
 			]
 		}
