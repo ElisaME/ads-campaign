@@ -38,6 +38,7 @@ export interface DailyDataPoint {
     impressions: number
     clicks: number
     conversions: number
+    revenue: number
 }
 
 // ---------------Datos específicos por plataformas ----------
