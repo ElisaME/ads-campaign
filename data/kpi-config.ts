@@ -5,7 +5,7 @@ export const kpiConfig = {
     note: 'En 3 platformas',
   },
   'attributed-revenue': {
-    comparison: 'WoW',
+    comparison: 'WoW', //week over weej
     note: 'Platform-reported, last-click',
   },
   'blended-roas': {

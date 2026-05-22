@@ -52,27 +52,12 @@ export function PageHeader({
 							<DropdownMenuItem onClick={() => setDateSelection('Last 7 Days')}>
 								Últimos 7 Días
 							</DropdownMenuItem>
-							<DropdownMenuItem
-								onClick={() => setDateSelection('Últimos 14 íass')}
-							>
-								Últimos 14 Días
-							</DropdownMenuItem>
-							<DropdownMenuItem
-								onClick={() => setDateSelection('Últimos 30 íass')}
-							>
-								Últimos 30 Días
-							</DropdownMenuItem>
-							<DropdownMenuItem
-								onClick={() => setDateSelection('Últimos 90 íass')}
-							>
-								Últimos 90 Días
-							</DropdownMenuItem>
 						</DropdownMenuContent>
 					</DropdownMenu>
-					<button className="px-4 py-2 rounded-md text-slate-500">
+					<button className="px-4 py-2 rounded-md text-slate-500" disabled>
 						<RefreshCcw className="h-4 w-4 mr-2" />
 					</button>
-					<button className="px-4 py-2 rounded-md text-slate-500">
+					<button className="px-4 py-2 rounded-md text-slate-500" disabled>
 						<Download className="h-4 w-4 mr-2" />
 					</button>
 				</div>

@@ -9,7 +9,6 @@ import {
 	XAxis,
 	YAxis,
 } from 'recharts';
-import { useId } from 'react';
 import { formatCurrency, formatDateShort } from '@/lib/formatters';
 
 function CustomTooltip({

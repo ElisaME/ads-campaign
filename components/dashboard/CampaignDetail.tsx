@@ -74,7 +74,7 @@ export function CampaignDetail({
 				<div className=" overflow-y-auto flex-1">
 					{/* Presupuesto */}
 					<h3 className="uppercase text-slate-500 text-sm">Presupesto</h3>
-					<div className="grid grid-cols-1lg:grid-cols-3">
+					<div className="grid grid-cols-1 lg:grid-cols-3">
 						<div>
 							<span className="text-sm text-slate-700">Diario: </span>
 							<span className="text-xs text-slate-500 ml-1">
