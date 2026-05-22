@@ -21,6 +21,12 @@ export function formatDateShort(dateStr: string): string {
     return date.toLocaleDateString('es-MX', { month: '2-digit', day: '2-digit' })
 }
 
+//format 'dd-mm-yyyy'
+export function formatDateLong(dateStr: string): string {
+    const date = new Date(dateStr)
+    return date.toLocaleDateString('es-MX', { month: 'short', day: '2-digit', year: 'numeric' })
+} 
+
 export function formatNumberCompact(value: number): string {
     const formatter = new Intl.NumberFormat('es-MX', {
         notation: 'compact',

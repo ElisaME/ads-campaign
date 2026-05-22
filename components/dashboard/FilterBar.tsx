@@ -58,7 +58,7 @@ export function FilterBar({
 				value={platformFilter}
 				onValueChange={(value) => setPlatformFilter(value as PlatformFilter)}
 			>
-				<SelectTrigger className="w-45">
+				<SelectTrigger className="w-50">
 					<SelectValue placeholder="Plataforma" />
 				</SelectTrigger>
 				<SelectContent>

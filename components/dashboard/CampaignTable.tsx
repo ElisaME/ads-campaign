@@ -8,6 +8,7 @@ import { CampaignRow } from './CampaignRow';
 import { FilterBar } from './FilterBar';
 import { useCampaigns } from '@/hooks/useCampaigns';
 import { Pagination } from './Pagination';
+import { CampaignDetail } from './CampaignDetail';
 
 const columns = [
 	// { key: 'health', label: '' },
@@ -48,9 +49,9 @@ function SkeletonRow() {
 function EmptyState() {
 	return (
 		<tr col-span={columns.length} className="px-6 text-center">
-			<p className="text-center text-sm text-slate-500 py-4">
+			<span className="text-center text-sm text-slate-500 py-4">
 				No se encontraron campañas
-			</p>
+			</span>
 		</tr>
 	);
 }
@@ -58,6 +59,11 @@ function EmptyState() {
 export function CampaignTable() {
 	const [isLoading, setIsLoading] = useState(true);
 	const campaigns = seedData.campaigns as Campaign[];
+	const [isOpen, setIsOpen] = useState(false);
+	const [selectedCampaign, setSelectedCampaign] = useState<Campaign | null>(
+		null,
+	);
+
 	const {
 		paginatedCampaigns,
 		currentPage,
@@ -129,7 +135,10 @@ export function CampaignTable() {
 								<CampaignRow
 									key={campaign.id}
 									campaign={campaign}
-									onSelect={() => {}}
+									onSelect={() => {
+										setSelectedCampaign(campaign);
+										setIsOpen(true);
+									}}
 								/>
 							))
 						)}
@@ -145,6 +154,13 @@ export function CampaignTable() {
 				prevPage={prevPage}
 				pageSize={pageSize}
 			/>
+			{selectedCampaign && (
+				<CampaignDetail
+					isOpen={isOpen}
+					setIsOpen={setIsOpen}
+					campaign={selectedCampaign as Campaign}
+				/>
+			)}
 		</>
 	);
 }
