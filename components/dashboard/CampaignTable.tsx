@@ -5,6 +5,9 @@ import { Skeleton } from '../ui/skeleton';
 import seedData from '@/data/seed.json';
 import { Campaign } from '@/types/campaign';
 import { CampaignRow } from './CampaignRow';
+import { FilterBar } from './FilterBar';
+import { useCampaigns } from '@/hooks/useCampaigns';
+import { Pagination } from './Pagination';
 
 const columns = [
 	// { key: 'health', label: '' },
@@ -55,6 +58,23 @@ function EmptyState() {
 export function CampaignTable() {
 	const [isLoading, setIsLoading] = useState(true);
 	const campaigns = seedData.campaigns as Campaign[];
+	const {
+		paginatedCampaigns,
+		currentPage,
+		totalPages,
+		totalCount,
+		searchTerm,
+		goToPage,
+		prevPage,
+		nextPage,
+		setSearchTerm,
+		platformFilter,
+		setPlatformFilter,
+		statusFilter,
+		setStatusFilter,
+		isFiltered,
+		pageSize,
+	} = useCampaigns(campaigns);
 
 	useEffect(() => {
 		// Simular carga de datos
@@ -64,38 +84,67 @@ export function CampaignTable() {
 		return () => clearTimeout(timer);
 	}, []);
 
+	const handleClearFilters = () => {
+		setSearchTerm('');
+		setPlatformFilter('all');
+		setStatusFilter('all');
+	};
+
 	return (
-		<div className="overflow-x-auto mt-4">
-			<table className="w-full">
-				<thead>
-					<tr>
-						{columns.map((col) => (
-							<th
-								key={col.key}
-								className={`px-2 lg:px-4 py-2 uppercase text-xs font-medium text-slate-500 ${col.className || ''}`}
-							>
-								{col.label}
-							</th>
-						))}
-					</tr>
-				</thead>
-				<tbody>
-					{isLoading ? (
-						// Mostrar 5 filas de skeleton mientras se cargan los datos
-						Array.from({ length: 5 }).map((_, idx) => <SkeletonRow key={idx} />)
-					) : campaigns.length === 0 ? (
-						<EmptyState />
-					) : (
-						campaigns.map((campaign) => (
-							<CampaignRow
-								key={campaign.id}
-								campaign={campaign}
-								onSelect={() => {}}
-							/>
-						))
-					)}
-				</tbody>
-			</table>
-		</div>
+		<>
+			<FilterBar
+				searchTerm={searchTerm}
+				platformFilter={platformFilter}
+				statusFilter={statusFilter}
+				isFiltered={isFiltered}
+				onClearFilters={handleClearFilters}
+				setPlatformFilter={setPlatformFilter}
+				setSearchTerm={setSearchTerm}
+				setStatusFilter={setStatusFilter}
+			/>
+			<div className="overflow-x-auto mt-4">
+				<table className="w-full">
+					<thead>
+						<tr>
+							{columns.map((col) => (
+								<th
+									key={col.key}
+									className={`px-2 lg:px-4 py-2 uppercase text-xs font-medium text-slate-500 ${col.className || ''}`}
+								>
+									{col.label}
+								</th>
+							))}
+						</tr>
+					</thead>
+					<tbody>
+						{isLoading ? (
+							// Mostrar 5 filas de skeleton mientras se cargan los datos
+							Array.from({ length: 5 }).map((_, idx) => (
+								<SkeletonRow key={idx} />
+							))
+						) : paginatedCampaigns.length === 0 ? (
+							<EmptyState />
+						) : (
+							paginatedCampaigns.map((campaign) => (
+								<CampaignRow
+									key={campaign.id}
+									campaign={campaign}
+									onSelect={() => {}}
+								/>
+							))
+						)}
+					</tbody>
+				</table>
+			</div>
+			<Pagination
+				currentPage={currentPage}
+				totalPages={totalPages}
+				totalCount={totalCount}
+				goToPage={goToPage}
+				nextPage={nextPage}
+				prevPage={prevPage}
+				pageSize={pageSize}
+			/>
+		</>
 	);
 }
